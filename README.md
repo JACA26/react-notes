@@ -2,6 +2,8 @@
 
 Una aplicación para llevar mi diario hecha con React y Redux.
 
+[Ver Demo](https://kind-hypatia-8ce5dc.netlify.app)
+
 ## Implementación con Firebase
 - Se usó firebase authentication para el login (incluye login con google)
 - Login con correo y contraseña
