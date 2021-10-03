@@ -11,3 +11,9 @@ Una aplicación para llevar mi diario hecha con React y Redux.
 
 ## Implementación con Cloudinary
 - Se usó la api de cloudinary para la subida de imágenes al servidor.
+
+## Nota:
+
+Para continuar el desarrollo de la app modifica el archivo 
+*./src/firebase/firebase-config.js* 
+y agrega tus propias credenciales de firebase
