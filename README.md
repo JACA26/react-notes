@@ -14,6 +14,9 @@ Una aplicación para llevar mi diario hecha con React y Redux.
 
 ## Nota:
 
-Para continuar el desarrollo de la app modifica el archivo 
-*./src/firebase/firebase-config.js* 
-y agrega tus propias credenciales de firebase
+Para continuar el desarrollo de la app modifica los siguientes archivos:
+
+- *./src/firebase/firebase-config.js* 
+y agrega tus propias credenciales de firebase.
+
+- *./src/helpers/fileUpload.js* y agrega tus propias credenciales de cloudinary.
